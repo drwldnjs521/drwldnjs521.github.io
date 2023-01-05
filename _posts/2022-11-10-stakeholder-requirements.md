@@ -45,7 +45,8 @@ This program can be divided into 4 features.
 
 ### PRINT
 - [ ] All documents of an order, needed to be delivered, can be printed.
-- [ ] Documents which are already printed should be distinguished.
+- [ ] Documents that have already been printed can be printed again at any time if required.
+
 
 
 For better understanding, please have a look at the [**details**][details] sketch
